@@ -11,6 +11,8 @@ PORT = 1883
 TOPIC = "isw/ITArch/Team-TEAMNAME"
 MESSAGE = "Hello from Team TEAMNAME"
 
+BROKER = ONLINE_BROKER
+
 #Ab hier muss nichts mehr angepassst werden
 ############################################################
 
