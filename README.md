@@ -1,8 +1,8 @@
 # ITArch-Uebung5-A2
 
-- Laden Sie die Übung herunter und öffnen Sie das Python Programm. 
+- Laden Sie die Übung herunter und öffnen Sie das Python Programm in einem Editor. 
 
-- Tragen Sie die IP-Adresse des ISW-Brokers ein. 
+- Tragen Sie die IP-Adresse (v4) des ISW-Brokers ein. 
 
 - Geben Sie das Topic an, unter dem Nachrichten übermittelt werden sollen. 
 
